@@ -8,6 +8,7 @@ The purpose of this project is to demonstrate my ability to use exploratory grap
 |Filename           | Description  |
 |:---|:---|
 |README.md | This file which describes the project|
+|Instructions.md | Assignment instructions from forked file|
 |CodeBook.md | Describes the variables, data and analysis performed on the data set|
 |plot1.png| Histogram of Global Active Power|
 |plot1.R| R script used to generate plot1.png|
