@@ -24,8 +24,8 @@ The purpose of this project is to demonstrate my ability to use exploratory grap
 ## To run the analysis on the data set
 1. Download the zipped data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 2. Unzip all the files into a ``data`` directory
-3. Run the scripts ``plot1.R``, ``plot2.R``, ``plot3.R`` and ``plot4.R`` from the same ``data`` directory
-4. The script each outputs a file ``plot1.png``, ``plot2.png``, ``plot3.png`` and ``plot4.png`` in the ``data`` directory
+3. Run the functions from the scripts ``plot1.R``, ``plot2.R``, ``plot3.R`` and ``plot4.R`` from the same ``data`` directory
+4. The scripts each outputs a file ``plot1.png``, ``plot2.png``, ``plot3.png`` and ``plot4.png`` in the ``data`` directory
 
 
 
